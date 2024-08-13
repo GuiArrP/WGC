@@ -41,5 +41,3 @@ $ source WGC/bin/activate
 (notebooks) $ python -m pip install -r requirements.txt
 (notebooks) $ python -m pip install --upgrade notebook traitlets
 ```
-
-# WGC
